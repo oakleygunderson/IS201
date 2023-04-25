@@ -1,0 +1,31 @@
+.backgroundColor {
+    background-color: rgb(251, 230, 240);
+}
+
+li {
+   color: grey; 
+}
+
+.myFont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.center {
+   text-align: center;
+    
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.fontstyle2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
